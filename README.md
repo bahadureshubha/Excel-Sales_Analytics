@@ -5,7 +5,7 @@
 
 Project Objectives:
 
-Create a Customer Performance Report
+Create a [Customer Performance Report](https://github.com/bahadureshubha/Excel-Sales_Analytics/blob/main/Customer%20Performance%20Report.pdf)
 
 Conduct a comprehensive comparison between Market Performance and Sales Targets
 
